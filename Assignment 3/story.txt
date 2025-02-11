@@ -1,0 +1,1 @@
+Currently, I am taking a course in task automation with interpreted languages  (NSSA 220). The course covers an introduction to Linux commands, bash scripting and python scripting. The course includes four assignments and one project, as well as two exams. 
