@@ -24,7 +24,7 @@ public class PopWindowExited implements EventHandler<MouseEvent>{
      * @param popExit The Label that will have its appearance changed upon the mouse exit event.
      */
     public PopWindowExited(Label popExit){
-        this.exit = popExit; // Initialize the exit label with the provided Label instance.
+        this.exit = popExit; // Initialize the exit label with the provided Label instance. hello, jsust checking my work.
     }
 
     /**
